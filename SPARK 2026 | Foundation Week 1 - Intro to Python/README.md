@@ -73,7 +73,7 @@ Hands-on introduction to Python programming with a focus on building the foundat
 - List comprehensions
 - Writing clean, readable code
 
-> 📂 **Slides:** [`SPARK2026_FDN_W01_Intro_Python.pptx`](slides/SPARK2026_FDN_W01_Intro_Python.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W01_Intro_Python.pptx`](SPARK 2026 | Foundation Week 1 - Intro to Python/slides/SPARK2026_FDN_W01_Intro_Python.pdf)
 
 **Click the image below to watch the recorded session:**
 
