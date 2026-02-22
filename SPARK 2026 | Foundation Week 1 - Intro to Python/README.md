@@ -112,7 +112,7 @@ New to the tools? Follow these guides to get started:
 > | **Deadline** | Friday, 27th February 2026 · 11:59 PM (GMT+1) |
 > | **Submission** | Push your completed codes to the GitHub Classroom repository |
 >
-> [![Accept Assignment](https://img.shields.io/badge/Accept_Assignment-Click_Here-181717?style=for-the-badge&logo=github)]()
+> [![Accept Assignment](https://img.shields.io/badge/Accept_Assignment-Click_Here-181717?style=for-the-badge&logo=github)](https://classroom.github.com/a/Cbuy1da-)
 >
 > **Before you start:**
 > 1. Create a free GitHub account at [github.com](https://github.com/signup) if you don't already have one
