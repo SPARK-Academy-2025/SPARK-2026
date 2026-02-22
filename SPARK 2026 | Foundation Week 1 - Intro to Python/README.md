@@ -116,7 +116,7 @@ New to the tools? Follow these guides to get started:
 >
 > **Before you start:**
 > 1. Create a free GitHub account at [github.com](https://github.com/signup) if you don't already have one
-> 2. Watch this video to learn how to access and submit your assignment: [How to Access and Submit Assignments]()
+> 2. Watch this video to learn how to access and submit your assignment: [How to Access and Submit Assignments](https://youtu.be/jHQ349b-DWs)
 
 ---
 
