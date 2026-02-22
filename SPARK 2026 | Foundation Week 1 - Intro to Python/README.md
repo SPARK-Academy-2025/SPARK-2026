@@ -41,7 +41,7 @@ A welcome address from the SPARK Academy Director introducing the program's visi
 
 **Click the image below to watch the recorded session:**
 
-[![Director's Welcome Note](SPARK 2026 | Foundation Week 1 - Intro to Python/thumbnails/intro.jpg)](https://youtu.be/pz5tczcOfFk)
+[![Director's Welcome Note](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%201%20-%20Intro%20to%20Python/thumbnails/intro.jpg?raw=true)](https://youtu.be/pz5tczcOfFk)
 
 ---
 
@@ -58,7 +58,7 @@ A clinical and imaging primer covering the fundamentals of medical imaging modal
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Medical Imaging](thumbnails/intro_medical_imaging.png)](https://youtu.be/JKjMpRUzNOA)
+[![Introduction to Medical Imaging](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%201%20-%20Intro%20to%20Python/thumbnails/medical.png?raw=true)](https://youtu.be/JKjMpRUzNOA)
 
 ---
 
@@ -77,7 +77,7 @@ Hands-on introduction to Python programming with a focus on building the foundat
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Python](thumbnails/intro_python.png)](ttps://youtu.be/vR92A9qRM5U)
+[![Introduction to Python](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%201%20-%20Intro%20to%20Python/thumbnails/python.png?raw=true)](ttps://youtu.be/vR92A9qRM5U)
 
 ### Training Notebooks
 
