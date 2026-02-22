@@ -77,7 +77,7 @@ Hands-on introduction to Python programming with a focus on building the foundat
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Python](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%201%20-%20Intro%20to%20Python/thumbnails/python.png?raw=true)](ttps://youtu.be/vR92A9qRM5U)
+[![Introduction to Python](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%201%20-%20Intro%20to%20Python/thumbnails/python.png?raw=true)](https://youtu.be/vR92A9qRM5U)
 
 ### Training Notebooks
 
