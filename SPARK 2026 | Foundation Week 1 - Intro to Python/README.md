@@ -164,7 +164,7 @@ SPARK 2026 | Foundation Week 1 - Welcome & Getting Started/
 </p>
 
 <p align="center">
-  <a href="https://github.com/SPARK-Academy-2026">GitHub</a> ·
-  <a href="mailto:spark@mailab.org">Contact</a> ·
-  <a href="#">Website</a>
+  <a href="https://github.com/SPARK-Academy-2025/SPARK-2026">GitHub</a> ·
+  <a href="https://www.cameramriafrica.org/contact">Contact</a> ·
+  <a href="https://www.cameramriafrica.org/spark">Website</a>
 </p>
