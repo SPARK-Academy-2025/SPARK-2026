@@ -41,7 +41,7 @@ A welcome address from the SPARK Academy Director introducing the program's visi
 
 **Click the image below to watch the recorded session:**
 
-[![Director's Welcome Note](thumbnails/directors_welcome.png)](https://youtu.be/pz5tczcOfFk)
+[![Director's Welcome Note](SPARK 2026 | Foundation Week 1 - Intro to Python/thumbnails/intro.jpg)](https://youtu.be/pz5tczcOfFk)
 
 ---
 
