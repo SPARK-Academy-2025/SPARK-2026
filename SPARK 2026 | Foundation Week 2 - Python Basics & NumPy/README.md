@@ -93,9 +93,9 @@ Hands-on session covering Python fundamentals and introducing NumPy — the back
 
 [![Object-Oriented Programming codes](https://img.shields.io/badge/GitHub-Object--Oriented%20Programming%20codes-black?logo=github)](https://github.com/ismailukman/FoundationalCourse_Python-OOP)
 
-| Google Colab | Kaggle |
+<!-- | Google Colab | Kaggle |
 |:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YVU5QWTRKhA3GxQjbFHbs55a6w2zkFTq?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-2-object-oriented-programming-oop-1) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YVU5QWTRKhA3GxQjbFHbs55a6w2zkFTq?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-2-object-oriented-programming-oop-1) | -->
 
 ---
 
