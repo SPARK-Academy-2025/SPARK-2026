@@ -41,7 +41,7 @@ A deeper dive into advanced medical imaging modalities — MRI and PET — cover
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Medical Imaging II](thumbnails/medical_imaging_ii.png)](https://youtu.be/MeiaXOE6B5M)
+[![Introduction to Medical Imaging II](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%202%20-%20Python%20Basics%20&%20NumPy/thumbnails/medical.jpeg?raw=true)](https://youtu.be/MeiaXOE6B5M)
 
 ---
 
@@ -61,7 +61,7 @@ Hands-on session covering Python fundamentals and introducing NumPy — the back
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Python Basics & NumPy](thumbnails/python_numpy.png)](https://youtu.be/OnIx0XyhmgA)
+[![Introduction to Python Basics & NumPy](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%202%20-%20Python%20Basics%20&%20NumPy/thumbnails/python.jpeg?raw=true)](https://youtu.be/OnIx0XyhmgA)
 
 ### Training Notebooks
 
@@ -87,7 +87,7 @@ Hands-on session covering Python fundamentals and introducing NumPy — the back
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Object-Oriented Programming 1](thumbnails/oop_i.png)](https://youtu.be/Vz2aMX-wOfQ)
+[![Introduction to Object-Oriented Programming 1](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%202%20-%20Python%20Basics%20&%20NumPy/thumbnails/oop.png?raw=true)](https://youtu.be/Vz2aMX-wOfQ)
 
 ### Training Notebooks
 
