@@ -57,7 +57,7 @@ Hands-on session covering Python fundamentals and introducing NumPy — the back
 - Basic linear algebra with NumPy
 - Practical examples with numerical data
 
-> 📂 **Slides:** [`SPARK2026_FDN_W02_Python_NumPy.pptx`](slides/SPARK2026_FDN_W02_Python_NumPy.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W02_Python_NumPy.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%202%20-%20Python%20Basics%20%26%20NumPy/slides/SPARK2026_FDN_W02_Python_NumPy.pdf)
 
 **Click the image below to watch the recorded session:**
 
