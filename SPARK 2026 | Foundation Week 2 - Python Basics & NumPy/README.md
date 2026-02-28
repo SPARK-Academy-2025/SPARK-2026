@@ -159,7 +159,7 @@ SPARK 2026 | Foundation Week 2 - Medical Imaging II, Python & NumPy, and OOP/
 ---
 
 <p align="center">
-  <strong>SPARK Academy 2026</strong> · Medical Artificial Intelligence Laboratory (MAI Lab)<br/>
+  <strong>SPARK Academy 2026</strong><br/>
   <em>Empowering the next generation of AI researchers in medical imaging across Africa</em>
 </p>
 
