@@ -15,21 +15,21 @@
 
 ## Overview
 
-Welcome to Week 3 of SPARK Academy 2026! This week opens with a Director's Address and programme update, continues your journey into advanced medical imaging modalities, and deepens your object-oriented programming skills with OOP II — essential for building robust and scalable AI pipelines.
+Welcome to Week 3 of SPARK Academy 2026! This week opens with the Capstone Project Overview led by the Director, continues your journey into advanced medical imaging modalities, and deepens your object-oriented programming skills with OOP II — essential for building robust and scalable AI pipelines.
 
 **This week covers three sessions:**
 
 | # | Session | Facilitator | Format |
 |---|---------|-------------|--------|
-| 1 | Programme Update & Director's Address | Dr. Udunna | Live |
+| 1 | SPARK 2026 Capstone Project Overview  | Dr. Udunna | Live |
 | 2 | Introduction to Medical Imaging III | Dr. Maruf | Live |
 | 3 | Introduction to Object-Oriented Programming (OOP II) |  Dr. Lukman E. Ismaila  | Live |
 
 ---
 
-## Session 1: Programme Update & Director's Address
+## Session 1: SPARK 2026 Capstone Project Overview
 
-A live address by the SPARK Academy Director, sharing programme updates, reflections on progress so far, and guidance for the weeks ahead.
+A live session led by the SPARK Academy Director, introducing the 2026 Capstone Project — outlining expectations, themes, timelines, and how participants will apply their learning to real-world medical imaging challenges.
 
 **Click the image below to watch the recorded session:**
 
