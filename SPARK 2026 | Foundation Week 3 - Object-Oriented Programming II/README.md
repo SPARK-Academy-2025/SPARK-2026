@@ -70,12 +70,13 @@ Building on OOP I, this session explores more advanced object-oriented concepts 
 [![Introduction to Object-Oriented Programming II](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%203%20-%20Object-Oriented%20Programming%20II/thumbnails/oop.png?raw=true)](https://youtu.be/Lb6zvTj9niM)
 
 ### Training Notebooks
+#### OOP GitHub Repo
+[![Object-Oriented Programming codes](https://img.shields.io/badge/GitHub-Object--Oriented%20Programming%20codes-black?logo=github)](https://github.com/ismailukman/FoundationalCourse_Python-OOP)
+
 
 | Google Colab | Kaggle |
 |:---:|:---:|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-NEpe4kCbkbAq8Ogmu8vKfVwBY8yG8YP?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-3-object-oriented-programming-oop-2) |
-
-[![Object-Oriented Programming codes](https://img.shields.io/badge/GitHub-Object--Oriented%20Programming%20codes-black?logo=github)](https://github.com/ismailukman/FoundationalCourse_Python-OOP)
 
 ---
 
