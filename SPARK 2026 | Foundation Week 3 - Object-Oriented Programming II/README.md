@@ -56,6 +56,8 @@ A continued deep dive into medical imaging modalities, building on the foundatio
 
 ## Session 3: Introduction to Object-Oriented Programming (OOP II)
 
+> 💡 **New to OOP?** If you missed last week's session, catch up on [OOP I from Week 2](https://youtu.be/Vz2aMX-wOfQ?list=PLcel6GTnkOKto93HAeZ-_VDWdUGJ3qugk) before diving in.
+
 Building on OOP I, this session explores more advanced object-oriented concepts in Python for designing scalable AI and medical imaging pipelines.
 
 **Topics Covered:**
