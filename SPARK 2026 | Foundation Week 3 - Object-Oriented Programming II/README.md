@@ -33,7 +33,7 @@ A live address by the SPARK Academy Director, sharing programme updates, reflect
 
 **Click the image below to watch the recorded session:**
 
-[![Programme Update & Director's Address](thumbnails/intro.png)](https://youtu.be/JPNJrB8p5uo)
+[![Programme Update & Director's Address](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%203%20-%20Object-Oriented%20Programming%20II/thumbnails/intro.jpg?raw=true)](https://youtu.be/JPNJrB8p5uo)
 
 ---
 
@@ -50,7 +50,7 @@ A continued deep dive into medical imaging modalities, building on the foundatio
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Medical Imaging III](thumbnails/medical.png)](https://youtu.be/wKHQwweVKoY)
+[![Introduction to Medical Imaging III](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%203%20-%20Object-Oriented%20Programming%20II/thumbnails/medical.png?raw=true)](https://youtu.be/wKHQwweVKoY)
 
 ---
 
@@ -67,7 +67,7 @@ Building on OOP I, this session explores more advanced object-oriented concepts 
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Object-Oriented Programming II](thumbnails/oop.png)](https://youtu.be/Lb6zvTj9niM)
+[![Introduction to Object-Oriented Programming II](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%203%20-%20Object-Oriented%20Programming%20II/thumbnails/oop.png?raw=true)](https://youtu.be/Lb6zvTj9niM)
 
 ### Training Notebooks
 
