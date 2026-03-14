@@ -21,10 +21,10 @@ Welcome to Week 4 of SPARK Academy 2026! This week covers advanced medical imagi
 
 | # | Session | Facilitator | Format |
 |---|---------|-------------|--------|
-| 1 | Data Manipulation with Pandas | | Pre-recorded |
-| 2 | Mini-Capstone Project Overview | | Live |
-| 3 | Introduction to Data Visualization | | Live |
-| 4 | Overview of Machine Learning: Types and Applications in Healthcare | | Pre-recorded |
+| 1 | Data Manipulation with Pandas | Aondona Moses | Pre-recorded |
+| 2 | Mini-Capstone Project Overview | Mohannad Barakat | Live |
+| 3 | Introduction to Data Visualization | Mohannad Barakat | Live |
+| 4 | Overview of Machine Learning: Types and Applications in Healthcare | Mohannad Barakat | Pre-recorded |
 
 ---
 
