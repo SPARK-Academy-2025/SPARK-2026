@@ -39,7 +39,7 @@ Welcome to Week 4 of SPARK Academy 2026! This week covers advanced medical imagi
 - Filtering, grouping, and aggregating data
 - Practical examples with medical datasets
 
-> 📂 **Slides:** [`SPARK2026_FDN_W04_Data_Manipulation_Pandas.pptx`](slides/SPARK2026_FDN_W04_Data_Manipulation_Pandas.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W04_Data_Manipulation_Pandas.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%204%20-%20Data%20Manipulation%20with%20Pandas/slides/SPARK2026_FDN_W04_Pandas.pdf)
 
 **Click the image below to watch the recorded session:**
 
@@ -104,7 +104,7 @@ A live session introducing the landscape of machine learning — supervised, uns
 - Applications of ML in healthcare and medical imaging
 - Challenges and opportunities in clinical AI
 
-> 📂 **Slides:** [`SPARK2026_FDN_W04_Overview_Machine_Learning.pptx`](slides/SPARK2026_FDN_W04_Overview_Machine_Learning.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W04_Overview_Machine_Learning.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%204%20-%20Data%20Manipulation%20with%20Pandas/slides/SPARK2026_FDN_W04_Overview_Machine_Learning.pdf)
 
 **Click the image below to watch the recorded session:**
 
