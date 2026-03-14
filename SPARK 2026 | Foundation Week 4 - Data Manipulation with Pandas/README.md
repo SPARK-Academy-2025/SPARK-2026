@@ -43,13 +43,13 @@ Welcome to Week 4 of SPARK Academy 2026! This week covers advanced medical imagi
 
 **Click the image below to watch the recorded session:**
 
-[![Data Manipulation with Pandas](thumbnails/pandas.png)](https://youtu.be/uZQZ4w1y_PM)
+[![Data Manipulation with Pandas](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%204%20-%20Data%20Manipulation%20with%20Pandas/thumbnails/pandas.png?raw=true)](https://youtu.be/uZQZ4w1y_PM)
 
 ### Training Notebooks
 
 | Google Colab | Kaggle |
 |:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyH9vGCTlelAyg1To2fbmdzclZ5LzdV7?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/spark-2026-data-manipulation-with-pandas) |
 
 ---
 
@@ -59,7 +59,7 @@ A live session introducing the Week 4 Mini-Capstone Project — outlining the pr
 
 **Click the image below to watch the recorded session:**
 
-[![Mini-Capstone Project Overview](thumbnails/capstone.png)](https://youtu.be/WfsTr2072OE)
+[![Mini-Capstone Project Overview](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%204%20-%20Data%20Manipulation%20with%20Pandas/thumbnails/MiniCapston.png?raw=true)](https://youtu.be/WfsTr2072OE)
 
 ### Training Notebooks
 
@@ -84,7 +84,7 @@ A live session covering the principles and tools for visualizing medical and tab
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Data Visualization](thumbnails/visualization.png)](https://youtu.be/f3minGQqSOw)
+[![Introduction to Data Visualization](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%204%20-%20Data%20Manipulation%20with%20Pandas/thumbnails/MiniCapston.png?raw=true)](https://youtu.be/f3minGQqSOw)
 
 ### Training Notebooks
 
@@ -108,7 +108,7 @@ A live session introducing the landscape of machine learning — supervised, uns
 
 **Click the image below to watch the recorded session:**
 
-[![Overview of Machine Learning](thumbnails/ml.png)](https://youtu.be/2Q8bETSDFpw)
+[![Overview of Machine Learning](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%204%20-%20Data%20Manipulation%20with%20Pandas/thumbnails/MiniCapston.png?raw=true)](https://youtu.be/2Q8bETSDFpw)
 
 ---
 
